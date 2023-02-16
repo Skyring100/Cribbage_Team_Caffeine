@@ -3,7 +3,7 @@
  */
 public enum Suit {
     CLUBS("C"), DIAMONDS("D"), HEARTS("H"), SPADES("S");
-    private String symbol;
+    private final String symbol;
     Suit(String s){
         this.symbol = s;
     }

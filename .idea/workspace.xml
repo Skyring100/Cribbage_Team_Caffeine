@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e20b61-9bd0-430d-b9bb-0db1d1f12612" name="Changes" comment="Changed to stop issues with workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/CardInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Suit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="12e20b61-9bd0-430d-b9bb-0db1d1f12612" name="Changes" comment="Added basics for cards including the card class, rank, suit and its interface. Feel free up comment on differences in your code suggest changes as this is just my version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,13 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675627199104</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added basics for cards including the card class, rank, suit and its interface. Feel free up comment on differences in your code suggest changes as this is just my version">
+      <created>1676590146964</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676590146964</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing stuff" />
     <MESSAGE value="test again" />
     <MESSAGE value="Changed to stop issues with workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed to stop issues with workspace.xml" />
+    <MESSAGE value="Added basics for cards including the card class, rank, suit and its interface. Feel free up comment on differences in your code suggest changes as this is just my version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added basics for cards including the card class, rank, suit and its interface. Feel free up comment on differences in your code suggest changes as this is just my version" />
   </component>
 </project>
