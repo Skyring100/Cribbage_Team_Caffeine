@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12e20b61-9bd0-430d-b9bb-0db1d1f12612" name="Changes" comment="Added basics for cards including the card class, rank, suit and its interface. Feel free up comment on differences in your code suggest changes as this is just my version" />
+    <list default="true" id="12e20b61-9bd0-430d-b9bb-0db1d1f12612" name="Changes" comment="made the member variables final in the card class and related classes since a card will be immutable once created">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +21,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,14 +64,33 @@
       <option name="project" value="LOCAL" />
       <updated>1676590146964</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="made the member variables final in the card class and related classes since a card will be immutable once created">
+      <created>1676590362254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676590362254</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing stuff" />
     <MESSAGE value="test again" />
     <MESSAGE value="Changed to stop issues with workspace.xml" />
     <MESSAGE value="Added basics for cards including the card class, rank, suit and its interface. Feel free up comment on differences in your code suggest changes as this is just my version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added basics for cards including the card class, rank, suit and its interface. Feel free up comment on differences in your code suggest changes as this is just my version" />
+    <MESSAGE value="made the member variables final in the card class and related classes since a card will be immutable once created" />
+    <option name="LAST_COMMIT_MESSAGE" value="made the member variables final in the card class and related classes since a card will be immutable once created" />
   </component>
 </project>
