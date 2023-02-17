@@ -1,8 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        //hello there again
+        //Does it work?
         // helloo this is a stupid comment
     }
-    //Testing one two three
 }
