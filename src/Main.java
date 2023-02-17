@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello humans on this planet!");
         //Does it work?
         // helloo this is a stupid comment
+        // comment - fred
     }
 }
